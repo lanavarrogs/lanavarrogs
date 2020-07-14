@@ -2,7 +2,7 @@
 
 <!--
 **lanavarrogs/lanavarrogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 I'm a systems computational systems engineering specialized in web development,I love learning new technologies 
 
 
@@ -12,4 +12,4 @@ I'm a systems computational systems engineering specialized in web development,I
 - 💬 Ask me about Javascript,Html,Css...
 - 📫 How to reach me: lanavarrogs@gmail.com ...
 
--->
+
